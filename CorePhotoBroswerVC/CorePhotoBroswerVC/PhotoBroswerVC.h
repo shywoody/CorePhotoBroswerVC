@@ -121,7 +121,7 @@
 
 @interface PhotoBroswerVC : UIViewController
 
-
+//456
 +(void)show:(UIViewController *)handleVC type:(PhotoBroswerVCType)type index:(NSUInteger)index photoModelBlock:(NSArray *(^)())photoModelBlock;
 
 
