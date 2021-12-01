@@ -111,7 +111,7 @@
 
 
 #import <UIKit/UIKit.h>//789
-#import "PhotoModel.h"
+#import "PhotoModel.h"//120
 #import "PhotoBroswerType.h"
 
 
